@@ -1,0 +1,2 @@
+# trading
+connect with tradingview
